@@ -1,24 +1,57 @@
 Winter 2017 - English 1130 Schedule
+
 Tues: Engl. 1130.004 (8:30 - 10:20 - NWS2801) / Engl. 1130.008 (12:30 - 2:20 - NWS2801)
 Thurs: Engl. 1130.004 (8:30 - 10:20 - NWS2801) / Engl. 1130.008 (12:30 - 2:20 - NWS2801)
-
-Links: 
-
-
 
 Drafting Classes are noted in the schedule below. If you do not complete the required at-home draft work in preparation for the drafting class, please take the drafting class to catch up on your work on your own. Without the required materials completed for the drafting class, there is no point in attending because drafting classes are workshop-based and require having the completed materials. If you don't have the required draft work, you cannot participate. If you attend a drafting class without the required materials, I will ask you to leave before beginning the workshop; no hard feelings or judgement.  
 
 ---
 
-
-Dates:
-
-Classes Begin Jan. 4, 2017
-
 Week 1: (Jan. 5) 
 
-- Assign Mary Flanagan - Introduction (Web)
-- Play Balloon Pop Math
+<p>For consultation, some of you might be interested in the following:</p>
+<ul>
+<li>The <a href="https://owl.english.purdue.edu/owl/resource/679/01/" target="_blank">OWL Purdue writing website</a> is a great main textbook-like site that has a lot of tips, strategies, and information about writing.</li>
+<li>In my opinion, the most important OWL Purdue page for writing in an academic context is this one: <a href="https://owl.english.purdue.edu/owl/section/1/2/" target="_blank">https://owl.english.purdue.edu/owl/section/1/2/</a></li>
+<li>For writing tips more generally, not just in academic writing, consult here: <a href="https://owl.english.purdue.edu/owl/resource/749/1/" target="_blank">https://owl.english.purdue.edu/owl/resource/749/1/</a></li>
+<li>If you do not have a clear understanding of English grammar basics, consult here: <a href="https://owl.english.purdue.edu/owl/section/1/" target="_blank">https://owl.english.purdue.edu/owl/section/1/</a></li>
+</ul>
+<p>For class on Tuesday Jan. 10, 2017, please have read the following when you arrive:</p>
+<ul>
+<li><a href="https://owl.english.purdue.edu/owl/resource/587/01/" target="_blank">The Writing Process</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/673/1/" target="_blank">PreWriting</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/545/1/" target="_blank">Creating a Thesis</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/544/1/" target="_blank">Developing an Outline</a></li>
+</ul>
+
+---
+
+Flanagan, Mary. ["Introduction"](https://learn.douglas.bc.ca/bbcswebdav/pid-790999-dt-content-rid-2846877_1/courses/ENGL-1130-004_12943_201710/Mary%20Flanagan%20-%20Critical%20Play%20Radical%20Game%20Design.pdf) from *Critical Play: Radical Game Design.*
+
+---
+
+Alberti, John. ["The Game of Reading and Writing: How Video Games Reframe Our Understanding of Literacy."](https://learn.douglas.bc.ca/bbcswebdav/pid-791003-dt-content-rid-2846878_1/courses/ENGL-1130-004_12943_201710/Alberti%20John%20-%20The%20Game%20of%20Reading%20and%20Writing.pdf) *Computers and Composition* 25 (2008): 258–69.
+
+---
+
+Before you come to class next Tuesday (Jan. 10, 2017), please play each of the following games at least once. You will not need to purchase, sign-in, or otherwise. Do not purchase, sign-in or otherwise to these sites. Play the game.  
+
+- [Balloon Pop Math](http://www.sheppardsoftware.com/mathgames/numberballoons/NumberBalloons_add_level1.htm)
+- [Math Man](http://www.sheppardsoftware.com/mathgames/mathman/mathman.htm)
+- [Add Like Mad](http://www.sheppardsoftware.com/mathgames/Add%20Like%20Mad%20Math/addlikemad.htm)
+- [Subtraction Action](http://www.sheppardsoftware.com/mathgames/Add%20Like%20Mad%20Math/subtractionaction.htm)
+- [Quick Math](http://www.sheppardsoftware.com/mathgames/quickmath/quickmath.htm)
+
+---
+
+Handout in Class: 
+
+- Think About: 
+	- What is your experience of the game? 
+	- What assumptions do you bring to the gameplay (did you actually read the instructions)
+	- Were you competitive? 
+	- What would you do differently if you were designing the game, why? 
+	- What do you think the intended outcomes were for designing the game?
 
 Week 2: (Jan. 10 & 12)
 
