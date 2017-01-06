@@ -71,6 +71,9 @@ Week 5: (Jan 31 & Feb. 2)
 
 - Jan. 31 - Essay #1 Due
 
+[Library Research Guide](http://guides.douglascollege.ca/Research/WhereDoIStart)
+[Research Companion (Douglas College Library](http://library.douglascollege.ca/articles-databases/complete-listing/research-companion)
+
 Week 6: (Feb. 7 & 9)
 
 - Feb. 9 - Game Reflection #3 Due
