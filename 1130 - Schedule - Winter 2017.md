@@ -1,3 +1,30 @@
+Game Lectures:
+
+Ted Talks: 
+
+- What is the rhetoric of Ted Talks - how are they structured, how do they seem similar?
+- What new information is foregrounded in the lecture? 
+- Where are the definitions? 
+- What are the dominant themes? (graphics, the brain, justifying the need for games--assumes we are against gaming--where are the videos that say games suck?)
+
+[Gaming Can Make a Better World](https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world)  
+[Your Brain on Video Games](https://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games)  
+[How Games Make Kids Smarter](https://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter)  
+- [Where in the World is Carmen Sandiego](http://www.playretrogames.com/2566-where-in-the-world-is-carmen-sandiego)  
+[Making Video Games for Girls](https://www.ted.com/talks/brenda_laurel_on_making_games_for_girls)    
+[Are Games Better than Life](https://www.ted.com/talks/david_perry_on_videogames)  
+[Play is More than Fun: It is Vital](https://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital)
+[Sustainable Perspectives on Video Games](http://tedxexeter.com/2012/05/21/andy-robertson-video/)
+[Video Game Confidential](http://www.tedxbeaconstreet.com/susan-oconnor/)
+
+---
+
+
+
+
+
+
+
 Winter 2017 - English 1130 Schedule
 
 Tues: Engl. 1130.004 (8:30 - 10:20 - NWS2801) / Engl. 1130.008 (12:30 - 2:20 - NWS2801)
