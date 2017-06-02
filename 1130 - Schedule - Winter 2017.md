@@ -378,6 +378,214 @@ If you were absent last class, please come to my office at 2:30 to get your inte
 
 
 
+<p>Winter 2017 - English 1130 Schedule</p>
+<p>Tues: Engl. 1130.004 (8:30 - 10:20 - NWS2801)</p>
+<p><span style="font-size: 13px;">Drafting Classes are noted in the schedule below. If you do not complete the required at-home draft work in preparation for the drafting class, please take the drafting class to catch up on your work on your own. Without the required materials completed for the drafting class, there is no point in attending because drafting classes are workshop-based and require having the completed materials. If you don’t have the required draft work, you cannot participate. If you attend a drafting class without the required materials, I will ask you to leave before beginning the workshop; no hard feelings or judgement.</span></p>
+<hr />
+<p>Week 1 &amp; 2: (Jan. 5 - 12)</p>
+<p>For consultation, some of you might be interested in the following:</p>
+<ul>
+<li>The <a href="https://owl.english.purdue.edu/owl/resource/679/01/" target="_blank">OWL Purdue writing website</a> is a great main textbook-like site that has a lot of tips, strategies, and information about writing.</li>
+<li>In my opinion, the most important OWL Purdue page for writing in an academic context is this one: <a href="https://owl.english.purdue.edu/owl/section/1/2/" target="_blank">https://owl.english.purdue.edu/owl/section/1/2/</a></li>
+<li>For writing tips more generally, not just in academic writing, consult here: <a href="https://owl.english.purdue.edu/owl/resource/749/1/" target="_blank">https://owl.english.purdue.edu/owl/resource/749/1/</a></li>
+<li>If you do not have a clear understanding of English grammar basics, consult here: <a href="https://owl.english.purdue.edu/owl/section/1/" target="_blank">https://owl.english.purdue.edu/owl/section/1/</a></li>
+</ul>
+<p>For class on Tuesday Jan. 10, 2017, please have read the following when you arrive:</p>
+<ul>
+<li><a href="https://owl.english.purdue.edu/owl/resource/587/01/" target="_blank">The Writing Process</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/673/1/" target="_blank">PreWriting</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/545/1/" target="_blank">Creating a Thesis</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/544/1/" target="_blank">Developing an Outline</a></li>
+</ul>
+<hr />
+<p>Flanagan, Mary. <a href="https://learn.douglas.bc.ca/bbcswebdav/courses/ENGL-1130-004_12943_201710/Mary%20Flanagan%20-%20Critical%20Play%20Radical%20Game%20Design.pdf">“Introduction”</a> from <em>Critical Play: Radical Game Design.</em></p>
+<hr />
+<p>Alberti, John. <a href="https://learn.douglas.bc.ca/bbcswebdav/courses/ENGL-1130-004_12943_201710/Alberti%20John%20-%20The%20Game%20of%20Reading%20and%20Writing.pdf">“The Game of Reading and Writing: How Video Games Reframe Our Understanding of Literacy.”</a> <em>Computers and Composition</em> 25 (2008): 258–69.</p>
+<hr />
+<p>Before you come to class next Tuesday (Jan. 10, 2017), please play each of the following games at least once. You will not need to purchase, sign-in, or otherwise. Do not purchase, sign-in or otherwise to these sites. Play the game.</p>
+<ul>
+<li><a href="http://www.sheppardsoftware.com/mathgames/numberballoons/NumberBalloons_add_level1.htm">Balloon Pop Math</a></li>
+<li><a href="http://www.sheppardsoftware.com/mathgames/mathman/mathman.htm">Math Man</a></li>
+<li><a href="http://www.sheppardsoftware.com/mathgames/Add%20Like%20Mad%20Math/addlikemad.htm">Add Like Mad</a></li>
+<li><a href="http://www.sheppardsoftware.com/mathgames/Add%20Like%20Mad%20Math/subtractionaction.htm">Subtraction Action</a></li>
+<li><a href="http://www.sheppardsoftware.com/mathgames/quickmath/quickmath.htm">Quick Math</a></li>
+</ul>
+<hr />
+<p>Week 3 &amp; 4: (Jan. 17 - 26)</p>
+<ul>
+<li><strong>Jan. 26 - Drafting Class (minimum two-page <em>complete</em> rough draft, hard copy, in class)</strong></li>
+</ul>
+<p>For class on Tuesday, please have read the following when you arrive:</p>
+<ul>
+<li><a href="https://owl.english.purdue.edu/owl/resource/996/1/">Understanding the Assignment</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/625/01/">The Rhetorical Situation</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/685/1/">The Formal Essay</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/588/01/">Developing the Argument</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/659/1/">Logic</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/606/1/">Paragraphing</a></li>
+</ul>
+<hr />
+<ul>
+<li>“<a href="https://learn.douglas.bc.ca/bbcswebdav/pid-817246-dt-content-rid-2876521_1/xid-2876521_1">Water Foul</a>” by Stassa Edwards</li>
+</ul>
+<hr />
+<p>Before you come to class next Tuesday (Jan. 17, 2017), please play each of the following games at least once. You will not need to purchase, sign-in, or otherwise. Do not purchase, sign-in or otherwise to these sites. Play the game.</p>
+<ul>
+<li>
+<p><a href="http://www.darfurisdying.com/" target="_blank">Darfur is Dying</a></p>
+</li>
+<li>
+<p><a href="http://videojuego.ciclania.cl/english/" target="_blank">Ciclania</a></p>
+</li>
+<li>
+<p><a href="https://www.icivics.org/games/activate" target="_blank">Activate</a></p>
+</li>
+<li>
+<p><a href="http://www.antiwargame.org/antiwargame.html" target="_blank">AntiWarGame</a></p>
+</li>
+</ul>
+<hr />
+<p>Week 5 &amp; 6 (Jan 31 to Feb. 9)</p>
+<ul>
+<li><strong>January 31, 2017 in class: Essay #1 Due</strong></li>
+<li><strong>February 2, 2017 in class: Game Reflection Journal Due</strong></li>
+</ul>
+<p>For consultation, some of you might be interested in the following:</p>
+<ul>
+<li><a href="https://owl.english.purdue.edu/owl/resource/622/1/">Definitions</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/544/1/">Developing an Outline</a></li>
+<li><a href="https://www.kibin.com/essay-writing-blog/thesis-statement-examples/">Thesis sentence examples</a></li>
+</ul>
+<p>Before you come to class next Tuesday (Jan. 31, 2017), please have read the following when you arrive:</p>
+<ul>
+<li><a href="http://www.writing.utoronto.ca/advice/planning-and-organizing">Planning and Organizing</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/685/05/">The Argumentative Essay</a></li>
+<li><a href="http://write-site.athabascau.ca/paragraph-resource/pdf/Annotated-Argumentation.pdf">Argumentative Essay Example</a></li>
+<li><a href="http://library.douglascollege.ca/articles-databases">Using Library Databases</a></li>
+<li><a href="http://english120.pbworks.com/w/page/19006850/definition%20paragraphs">Some definition examples</a></li>
+<li><a href="http://guides.douglascollege.ca/Research/WhereDoIStart" target="_blank">Library Research Guide</a></li>
+<li><a href="http://library.douglascollege.ca/articles-databases/complete-listing/research-companion">Research Companion (Douglas College Library)</a></li>
+</ul>
+<ul>
+<li><a href="http://0-muse.jhu.edu.orca.douglascollege.ca/journals/common_knowledge/v017/17.2.jones.pdf">Performing the Social Text: Or, What I Learned From Playing Spore</a></li>
+</ul>
+<p><span style="font-size: 13px;">Before you come to class next Tuesday (Jan. 31, 2017), please play each of the following games at least once. You will not need to purchase, sign-in, or otherwise. Do not purchase, sign-in or otherwise to these sites. Play the game.</span></p>
+<ul>
+<li>
+<p><a href="http://versificator.net/detectiveland/" target="_blank">Detectiveland</a></p>
+</li>
+<li>
+<p><a href="http://iplayif.com/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fglulx%2FColor_the_Truth.gblorb" target="_blank">Color the Truth</a></p>
+</li>
+<li>
+<p><a href="https://stoneharborgame.com/" target="_blank">Stone Harbour</a></p>
+</li>
+<li>
+<p><a href="http://play.textadventures.co.uk/Play.aspx?id=6q7gsnm4oeyqsmou1artbw" target="_blank">Lemon Simulator</a></p>
+</li>
+<li>
+<p><a href="http://unicorn.jocke.no/ target=" _blank="">Robot Unicorn Attack</a></p>
+</li>
+</ul>
+<hr />
+<p>Week 7: (Feb. 14 &amp; 16) - <strong>NO CLASSES; STUDY BREAK</strong></p>
+<p>For consultation, some of you might be interested in the following:</p>
+<ul>
+<li><a href="http://www.newyorker.com/books/page-turner/why-is-academic-writing-so-academic">Why is Academic Writing so Academic?</a></li>
+<li><a href="http://www.theatlantic.com/education/archive/2015/10/complex-academic-writing/412255/">The Needless Complexity of Academic Writing</a></li>
+</ul>
+<hr />
+<p>Week 8: (Feb. 21 - 23)</p>
+<ul>
+<li>Feb. 23 - Game Reflection Journal Due</li>
+<li>Feb. 23 - Drafting Class (minimum one-page outline and two sources, hard copy, in class)</li>
+</ul>
+<p>Before you come to class next Tuesday (Feb. 21, 2017), please have watched all of the following when you arrive:</p>
+<ul>
+<ul>
+<li><a href="https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world">Gaming Can Make a Better World</a></li>
+<li><a href="https://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games">Your Brain on Video Games</a></li>
+<li><a href="https://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter">How Games Make Kids Smarter</a></li>
+<li><a href="http://www.playretrogames.com/2566-where-in-the-world-is-carmen-sandiego">Where in the World is Carmen Sandiego</a></li>
+<li><a href="https://www.ted.com/talks/brenda_laurel_on_making_games_for_girls">Making Video Games for Girls</a></li>
+<li><a href="https://www.ted.com/talks/david_perry_on_videogames">Are Games Better than Life</a></li>
+<li><a href="https://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital">Play is More than Fun: It is Vital</a> <a href="http://tedxexeter.com/2012/05/21/andy-robertson-video/">Sustainable Perspectives on Video Games</a> <a href="http://www.tedxbeaconstreet.com/susan-oconnor/">Video Game Confidential</a></li>
+</ul>
+</ul>
+<hr />
+<p>Before you come to class next Tuesday (Feb. 21, 2017), please play each of the following games at least once. You will not need to purchase, sign-in, or otherwise. Do not purchase, sign-in or otherwise to these sites. Play the game.</p>
+<p><a href="http://www.addictinggames.com/funny-games/dontshootthepuppy.jsp">Don’t Shoot the Puppy</a><br /> <a href="http://www.kongregate.com/games/johnny_k/ragdoll-cannon">Ragdoll Cannon</a></p>
+<hr />
+<p>Week 9: (Feb. 28) - (<strong>MID-TERM</strong>)</p>
+<ul>
+<li>Feb. 28 - In-Class Essay #2 Written</li>
+</ul>
+
+**
+---
+
+<p>Week 10: (March 2 &amp; 9)</p>
+<p>Before you come to class next Thursday (March 2, 2017), please have read the following when you arrive:</p>
+<ul>
+<ul>
+<ul>
+<li><a href="http://www.writing.utoronto.ca/advice/using-sources/quotations">Using Sources</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/559/1/">Primary Research</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/553/1/">Evaluating Research</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/section/2/">Research and Citation</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/658/01/">The Research Paper</a></li>
+<li><a href="http://www.writing.utoronto.ca/advice/reading-and-researching">Reading and Researching</a></li>
+</ul>
+</ul>
+</ul>
+<p>Week 11: (March 14 &amp; 16)</p>
+<ul>
+<ul>
+<ul>
+<li>March 14 - Proposal Drafting Class (minimum one-page outline of proposal, hard copy, in class)</li>
+<li>March 16 - Long Proposal and Draft Bibliography (minimum 5 sources)</li>
+<li>March 16 - Game Reflection Journal Due</li>
+</ul>
+<ul>
+<li><a href="http://www.writing.utoronto.ca/advice/specific-types-of-writing/academic-proposal">Academic Long Proposals</a></li>
+<li><a href="https://owl.english.purdue.edu/owl/resource/572/01/">Conciseness</a></li>
+<li><a href="http://www.easybib.com/guides/students/research-guide/paraphrasing-patchwriting-direct-quotes/how-to-paraphrase/" target="_blank" style="font-size: 13px;"><span class="externalcitation">Paraphrasing</span></a></li>
+<li><a href="https://integrity.mit.edu/handbook/citing-your-sources/what-common-knowledge" target="_blank"><span class="externalcitation"><span><span>Common Knowledge</span></span></span></a></li>
+</ul>
+</ul>
+</ul>
+<p>Week 12: (March 21 &amp; 23)</p>
+<p>Week 13: (March 28 &amp; 30)</p>
+<ul>
+<ul>
+<ul>
+<li>March 28 - Annotated Bibliography Drafting Class (minimum three sources, hard copy, in class)</li>
+<li>March 30 - Annotated Bibliography (minimum 10 sources, with minimum three sentence annotations)</li>
+<li>March 30 - Game Reflection Journal Due</li>
+</ul>
+</ul>
+</ul>
+<p>Week 14: (April 4 &amp; 6)</p>
+<ul>
+<ul>
+<ul>
+<li>April 6 - Drafting Class for Final Paper (minimum three-page breakdown of final essay)</li>
+</ul>
+</ul>
+</ul>
+<p>Week 15: (April 11 &amp; 13)</p>
+<ul>
+<ul>
+<ul>
+<li>April 11, 13 - Drafting Class for Final Paper (full drafts in class to be workshopped)</li>
+<li>April 13, 2017 - Essays due in class: graded, with comments</li>
+<li>April 20, 2017 (no later than 1pm) - Essays Due New Westminster LLPA Fieldbase (NWS2600)</li>
+<li><strong>College closed for Easter - April 14 &amp; 17</strong></li>
+</ul>
+</ul>
+</ul>
+<hr />
+
 
 
 
